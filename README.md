@@ -97,7 +97,7 @@ Both versions provide accurate and responsive results with a focus on usability 
 | Abhay Jham      | Frontend Designer   |
 | Priyansh Indane | Algorithm Developer |
 | Devansh Mishra  | Backend Developer   |
-| Ronit Chudri    | UI/UX & Testing     |
+| Ronit Choudhari   | UI/UX & Testing     |
 
 ---
 
