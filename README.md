@@ -76,7 +76,8 @@ Both versions provide accurate and responsive results with a focus on usability 
 
 **Web Interface Example:**
 
-![Scientific Calculator Screenshot](https://user-images.githubusercontent.com/your-username/calculator-preview.png)
+<img width="701" height="391" alt="image" src="https://github.com/user-attachments/assets/8254b80a-1790-4e9b-b746-1e465d4f0cf1" />
+
 
 ---
 
